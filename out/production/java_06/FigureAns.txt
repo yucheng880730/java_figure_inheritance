@@ -1,0 +1,20 @@
+Creating a figure with no parameters.
+Call to Figure's draw method.
+Call to Figure's erase method.
+Calling Figure's center method.
+Call to Figure's erase method.
+Call to Figure's draw method.
+Creating a figure with no parameters.
+Creating Triangle Class with no parameters.
+Calling Triangle's draw method.
+Calling Triangle's erase method.
+Calling Figure's center method.
+Calling Triangle's erase method.
+Calling Triangle's draw method.
+Creating a figure with no parameters.
+Creating Rectangle Class with no parameters.
+Calling Rectangle's draw method.
+Calling Rectangle's erase method.
+Calling Figure's center method.
+Calling Rectangle's erase method.
+Calling Rectangle's draw method.
